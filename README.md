@@ -6,7 +6,7 @@
 - [O que esse projeto faz e possui](#o-que-esse-projeto-faz-e-possui)
 - [O que esse projeto não faz e débitos técnicos](#o-que-esse-projeto-não-faz-e-débitos-técnicos)
 - [Como Executar o Projeto](#como-executar-o-projeto)
-  - [Executar o Docker](#executar-o-docker)
+  - [Executar o Projeto](#executar-o-projeto)
 
 
 ## Sobre
